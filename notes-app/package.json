@@ -1,0 +1,12 @@
+{
+  "name": "notes-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "nodemon": "^2.0.7",
+    "validator": "^13.5.2",
+    "yargs": "^16.2.0"
+  }
+}

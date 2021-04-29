@@ -1,0 +1,10 @@
+# Other files and folders
+node_modules
+
+# Executables
+*.min.*
+
+.DS_Store
+.idea
+.vscode
+dist
